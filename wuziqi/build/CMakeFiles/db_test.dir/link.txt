@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/db_test.dir/main.cpp.o -o db_test  -lmysqlcppconn -lmysqlclient 

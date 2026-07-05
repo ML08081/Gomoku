@@ -1,0 +1,3 @@
+/data/project/wuziqi/build/CMakeFiles/db_test.dir
+/data/project/wuziqi/build/CMakeFiles/edit_cache.dir
+/data/project/wuziqi/build/CMakeFiles/rebuild_cache.dir
